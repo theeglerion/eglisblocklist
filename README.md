@@ -1,3 +1,3 @@
 # eglisblocklist
 
-Via <a href="dmstern.github.io/likers-blocker">Likers Blocker</a>
+Via <a href="http://dmstern.github.io/likers-blocker">Likers Blocker</a>
